@@ -1,2 +1,2 @@
-# OTRS-6-Long-Term-Support-LTS-
-Links to OTRS 6 Long Term Support (LTS)
+# OTRS Community Edition with Long Term Support (LTS)
+Links to OTRS Community Edition with Long Term Support (LTS)
