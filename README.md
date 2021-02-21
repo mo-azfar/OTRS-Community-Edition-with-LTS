@@ -10,6 +10,8 @@ Packages (FAQ, Survey,etc) - https://download.znuny.org/releases/packages/
 	
 ITSM Module - https://download.znuny.org/releases/itsm/        
 
-
-Credit: znuny.org  
+3rd party community addon - https://opar.perl-services.de/  
+  
+  
+Credit: znuny.org , reneeb, someone else .. 
 
