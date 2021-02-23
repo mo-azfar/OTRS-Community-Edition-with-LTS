@@ -5,7 +5,7 @@ As we know, OTRS will not release a new Community Edition until further notice.
 Thankfully, znuny.org will deliver security fixes and maintenance updates, which will ensure continued operation.
 
 Additionaly, the existing sites to download otrs community edition has been taken down.  
-You may find below the previous and current package at urls below.  
+You may find the previous and current package at urls below.  
   
   
 | Items                        | URL                                           |
