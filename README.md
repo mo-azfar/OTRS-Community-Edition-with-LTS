@@ -8,7 +8,7 @@ Additionaly, the existing sites to download otrs community edition has been take
 You may find the previous and current package at urls below.  
   
   
-| Items                        | URL                                           |
+| ITEM                         | URL                                           |
 | -----------------------------| --------------------------------------------- |
 | OTRS (LTS)                   | https://www.znuny.org/releases                |
 | Packages (FAQ, Survey,etc)   | https://download.znuny.org/releases/packages/ |
