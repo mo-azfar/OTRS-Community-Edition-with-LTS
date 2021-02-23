@@ -18,5 +18,6 @@ Thankfully, znuny.org will deliver security fixes and maintenance updates, which
 Credit: znuny.org , reneeb, someone else .. 
 
 | Syntax      | Description |
+| ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
