@@ -17,7 +17,11 @@ Thankfully, znuny.org will deliver security fixes and maintenance updates, which
   
 Credit: znuny.org , reneeb, someone else .. 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Items                        | URL                                           |
+| -----------------------------| --------------------------------------------- |
+| OTRS (LTS)                   | https://www.znuny.org/releases                |
+| Packages (FAQ, Survey,etc)   | https://download.znuny.org/releases/packages/ |
+| ITSM Module                  | https://download.znuny.org/releases/itsm/     |
+| Github                       | https://github.com/znuny/Znuny                |
+| Community Forum              | https://community.znuny.org/                  |
+| 3rd party community addon    | https://opar.perl-services.de/                |
