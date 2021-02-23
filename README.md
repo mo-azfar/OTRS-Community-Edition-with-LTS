@@ -12,7 +12,7 @@ Thankfully, znuny.org will deliver security fixes and maintenance updates, which
 | ITSM Module                  | https://download.znuny.org/releases/itsm/     |
 | Github                       | https://github.com/znuny/Znuny                |
 | Community Forum              | https://community.znuny.org/                  |
-| 3rd party community addon    | https://opar.perl-services.de/                |
+| 3rd Party Community Addon    | https://opar.perl-services.de/                |
   
   
   
