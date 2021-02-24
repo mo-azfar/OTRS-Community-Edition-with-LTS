@@ -13,17 +13,9 @@ You may find the previous and current package at urls below.
 | OTRS (LTS)                   | https://www.znuny.org/releases                                    |
 | Packages (FAQ, Survey,etc)   | https://download.znuny.org/releases/packages/                     |
 | ITSM Module                  | https://download.znuny.org/releases/itsm/                         |
-  
-  
-| MANUAL / GUIDE               | URL                                                               |
-| -----------------------------| ----------------------------------------------------------------- |  
 | Admin Manual				   | https://doc.znuny.org/doc/manual/admin/6.0/en/html/index.html     |
 | Developer Manual			   | https://doc.znuny.org/doc/manual/developer/6.0/en/html/index.html |
 | API Reference			       | https://doc.znuny.org/doc/api/otrs/6.0/Perl/                      |
-  
-   
-| OTHERS                       | URL                                                               |
-| -----------------------------| ----------------------------------------------------------------- |
 | Github                       | https://github.com/znuny/Znuny                                    |
 | Community Forum              | https://community.znuny.org/                                      |
 | 3rd Party Community Addon    | https://opar.perl-services.de/                                    |
