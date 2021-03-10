@@ -23,3 +23,11 @@ You may find the previous and current package at urls below.
   
   
 Credit: znuny.org , reneeb, someone else ..   
+
+# OTOBO Helpdesk
+The company Rother OSS is developing OTOBO Helpdesk as open source based on OTRS Community Edition. They have been providing professional support for OTRS and are developing their own version now. The project is under active development. As of now you can migrate from OTRS to OTOBO and back. A migration tool is included.
+OTOBO | URL
+------------ | -------------
+Homepage | https://otobo.de/en/
+Download, Documentation | https://otobo.de/en/otobo-download/
+Repository | https://github.com/RotherOSS/otobo
