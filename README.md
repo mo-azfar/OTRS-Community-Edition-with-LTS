@@ -18,7 +18,8 @@ You may find the previous and current package at urls below.
 | API Reference			       | https://doc.znuny.org/doc/api/otrs/6.0/Perl/                                                 |
 | Github                       | https://github.com/znuny/Znuny                                                               |
 | Community Forum              | https://community.znuny.org/                                                                 |
-| 3rd Party Community Addon    | https://opar.perl-services.de/ , https://github.com/znuny?q=Znuny4OTRS&type=&language=&sort= |
+| 3rd Party Community Addon    | https://opar.perl-services.de/
+https://github.com/znuny?q=Znuny4OTRS&type=&language=&sort= |
   
   
   
