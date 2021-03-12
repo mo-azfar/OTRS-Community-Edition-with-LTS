@@ -4,8 +4,8 @@ Links to OTRS Community Edition with Long Term Support (LTS)
 As we know, OTRS will not release a new Community Edition until further notice. 
 Thankfully, znuny.org will deliver security fixes and maintenance updates, which will ensure continued operation.
 
-Additionaly, the existing sites to download otrs community edition has been taken down.  
-You may find the previous and current package at urls below.  
+Additionaly, the existing sites to download otrs community edition and their addon has been taken down.  
+You may find the previous and uodated package at urls below.  
   
   
 | OTRS LTS                     | URL                                                               |
