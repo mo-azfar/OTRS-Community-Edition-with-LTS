@@ -6,7 +6,7 @@ Thankfully, znuny.org will deliver security fixes and maintenance updates, which
 
 Additionaly, the existing sites to download otrs community edition and additional packages (ITSM, FAQ, Survey,etc) has been taken down.  
   
-You may find the previous and uodated package at urls below.  
+You may find the previous and updated package at urls below.  
   
   
 | OTRS LTS                     | URL                                                               |
